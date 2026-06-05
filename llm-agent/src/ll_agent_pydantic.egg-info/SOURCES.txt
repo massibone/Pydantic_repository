@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.py
+src/ll_agent_pydantic.egg-info/PKG-INFO
+src/ll_agent_pydantic.egg-info/SOURCES.txt
+src/ll_agent_pydantic.egg-info/dependency_links.txt
+src/ll_agent_pydantic.egg-info/top_level.txt
