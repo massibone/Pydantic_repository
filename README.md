@@ -25,3 +25,4 @@ Vuoi testare l'agente? Spostati nella cartella llm-agent e avvialo.
 
 Sicurezza: Grazie a Pydantic, i dati che passano tra l'API e l'Agente sono sempre controllati e validati.
 
+
