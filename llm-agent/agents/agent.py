@@ -38,3 +38,4 @@ class WeatherAgent:
         except (json.JSONDecodeError, ValidationError) as exc:
             # Any problem (bad JSON, missing fields, wrong types) ends up here
             return AgentResult(success=False, error=str(exc))
+            
