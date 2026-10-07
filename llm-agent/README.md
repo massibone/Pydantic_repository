@@ -13,7 +13,6 @@ A tiny demo that shows how to:
 
 llm-agent-pydantic/ │ ├─ agent.py # WeatherAgent implementation ├─ models.py # Pydantic models (WeatherInfo, AgentResult) ├─ client.py # Dependency‑injection wrapper around the LLM client ├─ main.py # Demo script ├─ requirements.txt # dependencies └─ README.md
 
-Copy
 
 ## 🚀 How to run
 
